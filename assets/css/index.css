@@ -37,7 +37,7 @@ body {
   box-sizing: border-box;
   padding: 1rem; }
   .container .side .me {
-    text-align: center;
+    text-align: left ;
     margin-bottom: 2rem; }
     .container .side .me .portrait {
       margin: 0 auto;
