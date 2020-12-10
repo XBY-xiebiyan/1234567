@@ -3,7 +3,7 @@
  * 公共部分
  * ------------------------------------------------- */
 body {
-  background: #e5e5e5 url(../../assets/images/background.png);
+  background: #5B5757 url(../../assets/images/background.png);
   width: 100%;
   overflow-x: hidden;
   padding: 1rem 10%;
@@ -103,7 +103,7 @@ body {
   margin-left: 22rem;
   background: #fff;
   border-radius: 5px;
-  box-shadow: 0 5px 20px #bbb;
+  box-shadow: 0 10px 20px #bbb;
   box-sizing: border-box;
   padding: 1rem; }
   .container .main .info-unit ul {
@@ -115,7 +115,7 @@ body {
       list-style: disc; }
       .container .main .info-unit ul li h3 .link {
         font-size: .5rem;
-        border: 1px solid #4db6ac;
+        border: 1px solid #37531C;
         padding: 1px 3px;
         -webkit-border-radius: 5px;
         border-radius: 5px;
@@ -167,7 +167,7 @@ aside {
     border-radius: 19px 0 0 10px;
     -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
-    background: #1abc9c; }
+    background: #EC6014; }
     aside ul li a {
       display: inline-block;
       width: 80px;
@@ -177,7 +177,7 @@ aside {
       color: #fff; }
 
 progress {
-  background-color: #f6f6f6;
+  background-color: #37543F;
   display: inline;
   /*width: 195px;*/
   height: 1em; }
@@ -186,13 +186,13 @@ progress::-webkit-progress-bar {
   background-color: #e0eaf0; }
 
 progress::-webkit-progress-value {
-  background-color: #1abc9c; }
+  background-color: #6A2626; }
 
 progress::-moz-progress-bar {
   background-color: #e0eaf0; }
 
 progress::-moz-progress-value {
-  background-color: #708d9b; }
+  background-color: #8C3939; }
 
 .progress-list {
   line-height: 2; }
