@@ -33,7 +33,7 @@ body {
   width: 20rem;
   background: #4158;
   border-radius: 5px;
-  box-shadow: 0 5px 20px #bbb;
+  box-shadow: 0 10px 20px #bbb;
   box-sizing: border-box;
   padding: 1rem; }
   .container .side .me {
@@ -90,7 +90,8 @@ body {
         display: none;
         width: 8rem;
         height: 8rem;
-        border-radius: 50%; }
+        border-radius: 50%;background
+spread {box-shadow: 0 10px 10px -10px}
   .container .side .info-unit ul li label {
     display: inline-block;
     width: 35%; }
@@ -103,7 +104,7 @@ body {
   margin-left: 22rem;
   background: #fff;
   border-radius: 5px;
-  box-shadow: 0 10px 20px #bbb;
+  box-shadow: 0 10px 20px #black;
   box-sizing: border-box;
   padding: 1rem; }
   .container .main .info-unit ul {
